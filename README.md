@@ -1,8 +1,10 @@
-# East End - syntax theme
+# East End Notebook - syntax theme
 
-A light flowery theme.
+This is the East end syntax theme - Notebook style
 
-The East End syntax is designed for the [East End UI theme](https://atom.io/themes/east-end-ui).
+A light flowery theme. With notebook style.
+
+The East End Notebook syntax is designed for the [East End UI theme](https://atom.io/themes/east-end-ui).
 
 The idea is to have, together with the UI theme a GUI that is easily readable on a notebook in many light conditions.
 
