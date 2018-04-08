@@ -1,7 +1,7 @@
 {
   "name": "east-end-notebook-syntax",
   "theme": "syntax",
-  "version": "0.2.1",
+  "version": "0.0.0",
   "description": "A light cafe late theme - notebook style",
   "keywords": [
     "light",
@@ -10,7 +10,8 @@
     "theme",
     "notebook",
     "east-end-ui",
-    "east-end-syntax"
+    "east-end-syntax",
+    "markdown"
   ],
   "repository": "https://github.com/MarcusE1W/eastend-notebook-syntax",
   "license": "MIT",
