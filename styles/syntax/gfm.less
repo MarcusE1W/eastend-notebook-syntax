@@ -1,0 +1,36 @@
+// East end syntax theme
+
+// .syntax--source.syntax--gfm {
+//   .syntax--markup {
+//     -webkit-font-smoothing: auto;
+//   }
+//
+//   .syntax--link .syntax--entity {
+//     color: @hue-2;
+//   }
+// }
+
+// GFM and markdown
+.syntax--source.syntax--gfm .syntax--markup {
+  -webkit-font-smoothing: auto;
+  &.syntax--heading {
+    color: @hue-4;
+    font-weight: bold;
+  }
+
+  &.syntax--raw {
+    color: @hue-1;
+  }
+
+  // .syntax--link .syntax--entity {
+  //     color: @hue-6;
+  // }
+
+}
+
+// Link description [test]
+.syntax--link {
+  .syntax--entity {
+    color: @hue-6;
+  }
+}

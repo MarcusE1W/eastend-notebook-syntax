@@ -1,0 +1,20 @@
+{
+  "name": "east-end-syntax",
+  "theme": "syntax",
+  "version": "0.2.1",
+  "description": "A light cafe late theme",
+  "keywords": [
+    "light",
+    "brown",
+    "syntax",
+    "theme",
+    "notebook",
+    "east-end-ui",
+    "east-end-syntax"
+  ],
+  "repository": "https://github.com/MarcusE1W/eastend-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
