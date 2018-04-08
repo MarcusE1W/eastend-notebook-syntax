@@ -28,4 +28,4 @@ The syntax theme supports additional style elements of the [language-markdown](h
 
 The colors are inspired by the [Pear](https://github.com/Niishi/pear-syntax) syntax theme.
 
-![](https://github.com/MarcusE1W/eastend-syntax/raw/master/screen2-sy.png)
+![](https://github.com/MarcusE1W/eastend-notebook-syntax/raw/master/screen2-sy.png)
